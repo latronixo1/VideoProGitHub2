@@ -17,6 +17,7 @@
 		FA934CB329A5752700FC881D /* VideoProGitHub2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA934CB229A5752700FC881D /* VideoProGitHub2Tests.swift */; };
 		FA934CBD29A5752700FC881D /* VideoProGitHub2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA934CBC29A5752700FC881D /* VideoProGitHub2UITests.swift */; };
 		FA934CBF29A5752700FC881D /* VideoProGitHub2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA934CBE29A5752700FC881D /* VideoProGitHub2UITestsLaunchTests.swift */; };
+		FA934CCD29A578AE00FC881D /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = FA934CCC29A578AD00FC881D /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		FA934CB829A5752700FC881D /* VideoProGitHub2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VideoProGitHub2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA934CBC29A5752700FC881D /* VideoProGitHub2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoProGitHub2UITests.swift; sourceTree = "<group>"; };
 		FA934CBE29A5752700FC881D /* VideoProGitHub2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoProGitHub2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FA934CCC29A578AD00FC881D /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../../1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		FA934C8C29A5752500FC881D = {
 			isa = PBXGroup;
 			children = (
+				FA934CCB29A575F300FC881D /* img */,
 				FA934C9729A5752600FC881D /* VideoProGitHub2 */,
 				FA934CB129A5752700FC881D /* VideoProGitHub2Tests */,
 				FA934CBB29A5752700FC881D /* VideoProGitHub2UITests */,
@@ -128,6 +131,14 @@
 				FA934CBE29A5752700FC881D /* VideoProGitHub2UITestsLaunchTests.swift */,
 			);
 			path = VideoProGitHub2UITests;
+			sourceTree = "<group>";
+		};
+		FA934CCB29A575F300FC881D /* img */ = {
+			isa = PBXGroup;
+			children = (
+				FA934CCC29A578AD00FC881D /* 1.png */,
+			);
+			path = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,6 +246,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA934CA829A5752700FC881D /* LaunchScreen.storyboard in Resources */,
+				FA934CCD29A578AE00FC881D /* 1.png in Resources */,
 				FA934CA529A5752700FC881D /* Assets.xcassets in Resources */,
 				FA934CA029A5752600FC881D /* Main.storyboard in Resources */,
 			);
