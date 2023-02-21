@@ -108,6 +108,7 @@
 		FA934C9729A5752600FC881D /* VideoProGitHub2 */ = {
 			isa = PBXGroup;
 			children = (
+				FA934CCB29A575F300FC881D /* img */,
 				FA934C9829A5752600FC881D /* AppDelegate.swift */,
 				FA934C9A29A5752600FC881D /* SceneDelegate.swift */,
 				FA934C9C29A5752600FC881D /* ViewController.swift */,
