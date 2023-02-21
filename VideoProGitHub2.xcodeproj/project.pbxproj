@@ -18,6 +18,7 @@
 		FA934CBD29A5752700FC881D /* VideoProGitHub2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA934CBC29A5752700FC881D /* VideoProGitHub2UITests.swift */; };
 		FA934CBF29A5752700FC881D /* VideoProGitHub2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA934CBE29A5752700FC881D /* VideoProGitHub2UITestsLaunchTests.swift */; };
 		FA934CCD29A578AE00FC881D /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = FA934CCC29A578AD00FC881D /* 1.png */; };
+		FA934CD129A5825D00FC881D /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = FA934CD029A5825D00FC881D /* 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		FA934CBC29A5752700FC881D /* VideoProGitHub2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoProGitHub2UITests.swift; sourceTree = "<group>"; };
 		FA934CBE29A5752700FC881D /* VideoProGitHub2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoProGitHub2UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		FA934CCC29A578AD00FC881D /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.png; path = ../../../1.png; sourceTree = "<group>"; };
+		FA934CCF29A5812200FC881D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FA934CD029A5825D00FC881D /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = ../../../2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +86,7 @@
 		FA934C8C29A5752500FC881D = {
 			isa = PBXGroup;
 			children = (
+				FA934CCF29A5812200FC881D /* README.md */,
 				FA934CCB29A575F300FC881D /* img */,
 				FA934C9729A5752600FC881D /* VideoProGitHub2 */,
 				FA934CB129A5752700FC881D /* VideoProGitHub2Tests */,
@@ -136,6 +140,7 @@
 		FA934CCB29A575F300FC881D /* img */ = {
 			isa = PBXGroup;
 			children = (
+				FA934CD029A5825D00FC881D /* 2.png */,
 				FA934CCC29A578AD00FC881D /* 1.png */,
 			);
 			path = img;
@@ -247,6 +252,7 @@
 			files = (
 				FA934CA829A5752700FC881D /* LaunchScreen.storyboard in Resources */,
 				FA934CCD29A578AE00FC881D /* 1.png in Resources */,
+				FA934CD129A5825D00FC881D /* 2.png in Resources */,
 				FA934CA529A5752700FC881D /* Assets.xcassets in Resources */,
 				FA934CA029A5752600FC881D /* Main.storyboard in Resources */,
 			);
